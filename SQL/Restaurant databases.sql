@@ -1,4 +1,3 @@
--- https://replit.com/join/otoqlczfci-sirapatpoolsup1
 -- Restaurant Owners
 -- 5 Tables
 -- 1x Fact, 4x Dimension
